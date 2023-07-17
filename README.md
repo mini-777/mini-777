@@ -1,6 +1,9 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=radical)
 <!--
 **mini-777/mini-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
