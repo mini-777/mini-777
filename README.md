@@ -14,7 +14,7 @@ I am a developer who enjoys exploring the interconnectedness of the world and is
 - 🌱 &nbsp; I’m currently learning Computer Science
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mini-777?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://www.jobkorea.co.kr/User/Resume/View?rNo=26078508)
 
 <br>
 
