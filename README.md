@@ -9,8 +9,7 @@ I am a developer who enjoys exploring the interconnectedness of the world and is
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Hakwonsin**
-- 🤝 &nbsp; I’m looking to collaborate on Hakwonsin Project
+- 🤝 &nbsp; I’m looking to collaborate on My Project
 - 🌱 &nbsp; I’m currently learning Computer Science
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mini-777?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
@@ -35,8 +34,8 @@ I am a developer who enjoys exploring the interconnectedness of the world and is
 |------|---|---|
 |2021| ERP System 개발 - 무진오토라이프(주) | 완료 |
 |2023| IOS Bluetooth 모듈 개발 - 배터와이(주) | 완료 |
-|2024| 학원의 신 프로젝트 - 학원의 신(주) | 진행중 |
-|2024| 기업 협력 프로젝트 - 케어온 (주) | 진행중 |
+|2024| 학원의 신 - 이사 | 완료 |
+|2024| 기업 협력 프로젝트 - 케어온 (주) | 완료 |
 
 ### 🚩CAREER
 
