@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Min!
 
 
-I am a developer who enjoys exploring the interconnectedness of the world and is always open to learning new technologies (Web Developer 🌐, App Developer 📱, Junior Designer 🎨)
+I am a developer who enjoys exploring the interconnectedness of the world and is always open to learning new technologies (App Developer 📱)
 <br/>
 <br/>
 
