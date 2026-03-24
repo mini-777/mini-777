@@ -39,7 +39,7 @@ I am a developer who enjoys exploring the interconnectedness of the world and is
 | 2025~     | 옆커폰 사내 시스템 개발 / 앱 개발          | 진행중 |
 | 2026~ | 삼진어묵 배합 관리 시스템 개발             | 진행중 |
 | 2025~     | LG디스플레이 보안팀 차량 보안시스템 개발       | 진행중 |
-| 2026 | 위티즈 기술 개발 총괄 | 진행중 |
+| 2026~ | 위티즈 기술 개발 총괄 | 진행중 |
 
 ### 🚩CAREER
 
