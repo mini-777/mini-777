@@ -40,7 +40,7 @@ I am a developer who enjoys exploring the interconnectedness of the world and is
 | 2026~ | 삼진어묵 배합 관리 시스템 개발             | 진행중 |
 | 2025~ | LG디스플레이 보안팀 차량 보안시스템 개발       | 진행중 |
 | 2026~ | 위티즈 기술 개발 총괄                  | 진행중 |
-| 2026~ | 드림건설 ERP 개발                   | 진행중 |
+| 2026~ | 더드림건설 ERP 개발                   | 진행중 |
 | 2026~ | 계명대학교 산학협력단 수면 연구 앱 개발        | 완료 |
 
 
